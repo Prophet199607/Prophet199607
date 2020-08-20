@@ -5,7 +5,7 @@
 
 ## I'm a Developer, and Teacher!
 
-- 🔭 I’m currently working on a [OnimtaIT][work]!
+- 🔭 I’m currently working on a software company - [OnimtaIT][work]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
