@@ -2,7 +2,7 @@
 
 
 # Hello World!, I'm Pasindu, a Full Stack Developer 👋🏼:
-🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2019 <br>🎬 
+🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studied Software Engineering at Cardiff Metropolitan University<br>👨🏼‍💻 working as a web developer since 2019 <br>🎬 
 
 
 # 💻 Tech Stack:
