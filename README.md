@@ -1,4 +1,4 @@
-<img src="[banner_github.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fdesign-and-code&psig=AOvVaw1ndt1eejCLIPyeZ5gr2a3B&ust=1746596686279000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIjxheyRjo0DFQAAAAAdAAAAABAK)" alt="GitHub Banner" width="100%" />
+<img src="(https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fdesign-and-code&psig=AOvVaw1ndt1eejCLIPyeZ5gr2a3B&ust=1746596686279000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIjxheyRjo0DFQAAAAAdAAAAABAK)" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Pasindu, a Full Stack Developer 👋🏼:
 🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2019 <br>🎬 
